@@ -1,7 +1,6 @@
 # Hello there! 👋 
 
-I am a Self-taught programmer and with a strong intuitive mindset and have a keen understanding of
-techniques geared towards solving problems.
+I am a self-taught programmer with a strong intuitive mindset and have a thorough understanding of problem-solving methodologies.
 
 
 
@@ -21,65 +20,56 @@ techniques geared towards solving problems.
 
 **Title: The SPARKS Foundation - GRIP**
 
-Description: The task included the use of prediction using Supervised ML and Unsupervised ML,EDA(Exploratory Data Analysis) on
-various datasets from Kaggle which were related to current scenarios.
+Description: The challenge required the application of EDA (Exploratory Data Analysis) on several datasets from Kaggle that were connected to current circumstances, as well as prediction using Supervised ML and Unsupervised ML.
 
 
 Tools used: Python(Added Libraries), Anaconda(Jupyter), Visual Studio Code 
 
-Learning Outcome: Greatly inproved my pre-existing knowledge of various datasets and also how to derive useful information through them. Was a team player providing necessary information at the time of need.
-Learned how to cleanly code and represent the data that was obtained through the means.
+Learning Outcome: My understanding of diverse datasets, as well as how to extract relevant information from them, has vastly improved. Was a team player who provided crucial knowledge when it was needed.
+Learned how to code and represent the data collected through the means in a neat and orderly manner.
 
 
 `Project 1: (Finished-5th Sem)`
 
  **Title: Stock Management**
 
-Description: The Stock management system that we worked on was aimed at obtaining data
-   from the stock exchange by means of web scrapping and performing analaysis 
-   on the changing values of stocks and hence providing the subscibed user with the required details.
+Description: The Stock Management System that we worked on was designed to scrape data from the stock exchange websites and do analysis on the changing stock values, thereby presenting the subscribed user with the necessary information.
 
 Tools used: Python(Pandas, Beautiful soup), Anaconda-Jupyter Notebook/Visual Studio Code
 
-Learning Outcome: Learned more about web-scraping and ways to extract data cleanly from a website.
+Learning Outcome: I learned more about web scraping and how to gather data from a website in a clean manner also gathered more about the knowledge of the python libraries that were used in the program and ways to implement them in various scenarios.
 
 
 `Project 2: (Finished-3th Sem)`
 
  **Title: 4-Link Robot-Arm**
 
-Description: The 4-link robot arm was programmed in a two-way movement pattern for Large-scale manufacturing factories to reduce human labour.The robot could move from the base in a parallel manner(180 degrees) and an arm was attached to pick up stuff less than 250gms.  
+Description: For large-scale production companies, the 4-link robot arm was designed in a two-way movement pattern to reduce human labour. The robot could move in a parallel (180 degree) motion from its base, and an arm was connected to pick up items weighing less than 250 grams. 
 
 Tools used: MATLAB, Arduino UNO and Application, Electronic components
 
-Learning Outcome: The outcome of this above activty improved my knowlege on the usage of arduino and MATLAB for testing the working of certain graphical movement patterns.
-
+Learning Outcome: The following activity increased my understanding of how to use Arduino and MATLAB to test the functionality of various graphical movement patterns.
 
 `Project 3: (Currently in works)`
 
 **Title: Big Data Analytics for SSE**(Small scale Industries)
 
-Description: Using Big Data Analytics to derive insights about the problems faced by SSE's during
-the lockdown.
+Description: Using Big Data Analytics to gain insight into the issues that SSEs faced during the lockdown.
+
 
 Tools used: Python(Added Libraries) , SQL(Added Libraries of Python), Jupyter Notebook/Visual Studio Code
 
-Learning Outcome: Learned more about Big Data and ways to implement it hence improved my
-existing knowledge on Python and SQL.
+Learning Outcome: Learning more about Big Data and how to use it has helped me enhance my Python and SQL skills.
 
 `Project 4: (Currently in works)`
 
 **Title: Object detector and Path finder**(For the visually impaired)
 
-Description: Making the use of image recognition we came up with the idea to detect objects within the immediate enviornment and provide a safe as welll as the shortest path using distance vector algorithms for the visually impaired.
-This image sensing camera will be mounted on top over a rover powered by a raspberry bi which is linked to the arduino controlling the camera used for detection. 
-
+Description: Using image recognition, we devised a method to detect items in the immediate environment and give a safe and quickest path for visually impaired people using distance vector methods. This image sensing camera will be put on top of a rover that is powered by a Raspberry Pi and connected to the Arduino that controls the detection camera.
 
 Tools used: Raspberry pi(3B+), Arduino UNO , Electronic components
 
-Learning Outcome: Learned more about Big Data and ways to implement it hence improved my
-existing knowledge on Python and SQL.
-
+Learning Outcome: I learnt more about using the Raspberry Pi and enhanced my knowledge of using the Arduino. I also learned more about developing some components from scratch and the hardware implementation required to do this.
 
 
 ## 🛠 Skills & Platforms
@@ -90,9 +80,6 @@ existing knowledge on Python and SQL.
 | C/C++ | Linux(Ubuntu)-Terminal/Turbo C++/Online text Editors |
 | Python | Anaconda(Jupyter)/Visual Studio Code | 
 | SQL    | MySQL/Python(Added Libraries)|
-
-
-
 
 
 
@@ -128,11 +115,11 @@ existing knowledge on Python and SQL.
  
  Dear Sir/Madam,
  
-I am a 4th-year B.E.(ECE) student, Beginner to the world of Data science. Committed to helping organisations to advance by implementing strategic plans based on predictive modeling and findings. Keen towards exploring new domains by engaging in solving problems and coming up with valuable insights.
+I am a fourth-year B.E. (ECE) student who is new to the world of data science. Committed to assisting organisations in progressing through the implementation of strategic plans based on predictive modelling and findings. Interested in learning about new topics through solving challenges and gaining valuable insights.
 
-Over few months, I've been relentlessly working on acquiring the skillset of becoming a Data-scientist.I have always strived to be a workaholic in my field of interest and this has enabled me to recognize my capabilities and I intend to learn and implement them in more effective ways through this opportunity.
+Over the last few months, I've been working hard to develop the abilities necessary to become a data scientist. I've always aspired to be a workaholic in my field of interest, and this has helped me discover my strengths, which I plan to learn and apply more effectively through this opportunity.
 
-I've worked as a Data-Science Trainee and Business Analyst having weekly Project Based Tasks(4 Tasks) on deriving insights from different types of real world datasets within the organisation- 
+I worked as a Data Scientist Trainee and Business Analyst, with weekly Project Based Tasks (4 Tasks) on generating insights from various sorts of real-world datasets within the company- 
 
 > The SPARKS Foundation 
 
@@ -148,7 +135,7 @@ The following is a snapshot of my broader technical skillset:
 
 + SQL(MySQL)
 
-It would be a pleasure for me to learn more about Ontum Education's needs and I would welcome the chance to futher provide growth to my knowlege of Python, Web-development, Database management and learning more about Software stacks.
+It would be a pleasure for me to learn more about Ontum Education's requirements, and I would welcome the opportunity to expand my Python, Web-development, database management, and software stacks knowledge.
 
 Thanking you for considering my candidancy for this position.
 
