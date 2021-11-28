@@ -82,9 +82,6 @@ Learning Outcome: I learnt more about using the Raspberry Pi and enhanced my kno
 | SQL    | MySQL/Python(Added Libraries)|
 
 
-
-
-
 ## 📜 Certifications
 
 -`AI/ML(Google-Reaktor's)`
@@ -96,11 +93,12 @@ Learning Outcome: I learnt more about using the Raspberry Pi and enhanced my kno
 
 ## 🏆 🏃🏼Hobbies/Achievements
 
-- Footaball/Athletics
-   -
-    -3rd Place Under-16 Team Event Regional Level (Mumbai) -Football
-    -1st Place Under 16-Team Event School Level(Mumbai/Bengaluru)-3x
-    -1st Place Under-16 Team Event School Level (Mumbai)-4x100m Athletics
+   | Footaball/Athletics                                             |
+   |-----------------------------------------------------------------|
+   | 3rd Place Under-16 Team Event Regional Level (Mumbai) -Football |
+   | 1st Place Under 16-Team Event School Level(Mumbai/Bengaluru)-3x |
+   | 1st Place Under-16 Team Event School Level (Mumbai)-4x100m Athletics |
+    
 - Photoshop/ Lightroom/ FinalCut Editor
 - Working Out, MMA/Boxing Enthusiast
 
