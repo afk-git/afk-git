@@ -121,7 +121,7 @@ Over the last few months, I've been working hard to develop the abilities necess
 
 I worked as a Data Scientist Trainee and Business Analyst, with weekly Project Based Tasks (4 Tasks) on generating insights from various sorts of real-world datasets within the company- 
 
-> The SPARKS Foundation 
+> **The SPARKS Foundation** 
 
 Over the course of 2 months(FEB-MAR 2021) through online mode.
 
