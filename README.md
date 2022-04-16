@@ -8,7 +8,7 @@ I am a self-taught programmer with a strong intuitive mindset and have a thoroug
 
 |  Course            |          Institution                                                       | Marks Obtained | 
 | ----------------- | ------------------------------------------------------------------ | ------------------- |
-| B.E.(Electronics & Communication)(Pursuing Currently) | CMR Institute of Technology,Bengaluru |      6.12 CGPA         |                      
+| B.E.(Electronics & Communication)(Pursuing Currently) | CMR Institute of Technology,Bengaluru |      6.84 CGPA         |                      
 | CBSE(12th) | KV ASC Centre,Bengaluru |                          65 %                                           |
 | CBSE(10th) | KV IIT Powai,Mumbai |                               8.4 CGPA                                      |
 
@@ -101,45 +101,6 @@ Learning Outcome: I learnt more about using the Raspberry Pi and enhanced my kno
     
 - Photoshop/ Lightroom/ FinalCut Editor
 - Working Out, MMA/Boxing Enthusiast
-
+**
 ## 
 ##
-
-# **MUBEEN AFSHAN KHAN RAYACHOTI**
- 
- #### *E-mail: mudino10@gmail.com*
- #### *Contact number: +91-7406263571*
- ---
- 
- Dear Sir/Madam,
- 
-I am a fourth-year B.E. (ECE) student who is new to the world of data science. Committed to assisting organisations in progressing through the implementation of strategic plans based on predictive modelling and findings. Interested in learning about new topics through solving challenges and gaining valuable insights.
-
-Over the last few months, I've been working hard to develop the abilities necessary to become a data scientist. I've always aspired to be a workaholic in my field of interest, and this has helped me discover my strengths, which I plan to learn and apply more effectively through this opportunity.
-
-I worked as a Data Scientist Trainee and Business Analyst, with weekly Project Based Tasks (4 Tasks) on generating insights from various sorts of real-world datasets within the company- 
-
-> **The SPARKS Foundation** 
-
-Over the course of 2 months(FEB-MAR 2021) through online mode.
-
-The following is a snapshot of my broader technical skillset:
-
- + HTML/CSS 
-    
-+ C/C++
-
-+ Python
-
-+ SQL(MySQL)
-
-It would be a pleasure for me to learn more about Ontum Education's requirements, and I would welcome the opportunity to expand my Python, Web-development, database management, and software stacks knowledge.
-
-Thanking you for considering my candidancy for this position.
-
-
-Sincerely,
-
-
-Mubeen Afshan Khan R.
-
