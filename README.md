@@ -63,7 +63,7 @@ Learning Outcome: Learning more about Big Data and how to use it has helped me e
 
 `Project 4: (Currently in works)`
 
-**Title: Object detector and Path finder**(For the visually impaired)
+**Title: Voice Controlled Object Detection Rover**(For the visually impaired)
 
 Description: Using image recognition, we devised a method to detect items in the immediate environment and give a safe and quickest path for visually impaired people using distance vector methods. This image sensing camera will be put on top of a rover that is powered by a Raspberry Pi and connected to the Arduino that controls the detection camera.
 
