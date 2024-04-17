@@ -8,7 +8,7 @@ I am a self-taught programmer with a strong intuitive mindset and have a thoroug
 
 |  Course            |          Institution                                                       | Marks Obtained | 
 | ----------------- | ------------------------------------------------------------------ | ------------------- |
-| B.E.(Electronics & Communication)(Pursuing Currently) | CMR Institute of Technology,Bengaluru |      6.65 GPA         |                      
+| B.E.(Electronics & Communication)(Pursuing Currently) | CMR Institute of Technology,Bengaluru |      8.65 GPA         |                      
 | CBSE(12th) | KV ASC Centre,Bengaluru |                          7.8 GPA                                           |
 | CBSE(10th) | KV IIT Powai,Mumbai |                               8.4 GPA                                      |
 
